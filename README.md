@@ -1,6 +1,6 @@
 # Project Planning Tool - Advanced Student Group Management System
 
-A sophisticated web application designed for educational institutions to intelligently divide students into project groups based on multiple criteria and preferences. This tool demonstrates advanced JavaScript development, data processing, and user experience design.
+A web application designed for educational institutions to intelligently divide students into project groups based on multiple criteria and preferences. This tool demonstrates advanced JavaScript development, data processing, and user experience design.
 
 **Live Demo:** [ryhmiin.guidesoft.fi](https://ryhmiin.guidesoft.fi/)
 
